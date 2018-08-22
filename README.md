@@ -7,9 +7,6 @@ How To run it :
 
   - adjust the port number to your taste 
   - point your application that you want to monitor to that port 
-  - ```sh 
-    node mysrver.js
- ```
- 
+  - node mysrver.js
   - See all the rest calls in the console 
   - Enjoy 
